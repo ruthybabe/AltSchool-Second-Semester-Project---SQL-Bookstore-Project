@@ -1,5 +1,4 @@
-#### This project utilizes Jupyter Notebook and the ipython-sql extension to answer real-world business questions from a bookstore database, which includes the following 
-#### tables: authors, books, customers, orders, order_items, and reviews.
+#### This project utilizes Jupyter Notebook and the ipython-sql extension to answer real-world business questions from a bookstore database, which includes the following tables: authors, books, customers, orders, order_items, and reviews.
 
 #### Key Insights Extracted:
 
