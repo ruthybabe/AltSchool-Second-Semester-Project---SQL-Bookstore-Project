@@ -14,5 +14,4 @@ Book Order Lookup – Orders containing book_id = 1
 
 Lowest Rated Books – Detailed reviews for the bottom 5 books
 
-**This project demonstrates practical SQL skills, including joins, aggregations, filtering, and real-world data analysis. **
-**
+**This project demonstrates practical SQL skills, including joins, aggregations, filtering, and real-world data analysis.**
